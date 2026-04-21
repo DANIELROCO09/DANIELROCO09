@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Daniel Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineer;Machine+Learning;Competitive+Programmer;ICPC+Mexico+Finalist;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineer+%7C+ML+Quant+Enthusiast;Competitive+Programmer;ICPC+Mexico+Finalist;Always+learning+new+things"></a>
 </p>
 
 <!Descripcion sobre mi-->
@@ -9,12 +9,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 I'm a senior student of Applied Mathematics and Computer Science with a strong passion for Data Engineering, Machine Learning, Deep Learning, and Data Science.
+- 🎓 Bachelor of Science in Applied Mathematics and Computer Science with a strong passion for Data Engineering, Machine Learning, Deep Learning, and Data Science.
+- ⚙️ Strong focus on **Data Engineering, Distributed Systems & Quantitative Development**
+- 🧠 Competitive programmer with solid algorithmic thinking  
+- 🔍 Interested in **financial data, trading systems & data-driven decision making**  
 
-💻 Technologies & Tools:
-SQL, C++, Java, Python, CSS, HTML, Spark, Hadoop, Tableau, Power BI, Git.
-
-🏆 Competitive programming & Kaggle enthusiast – I enjoy solving complex problems and optimizing algorithms.
 
 🚀 Currently learning:
 
