@@ -17,11 +17,16 @@
 💡 I enjoy building systems that process, transform, and extract value from data at scale.
 ---
 
-🚀 Currently learning:
+---
 
-Advanced Data Engineering Concepts
-Scalable Big Data Architectures
-Mathematics & Statistics for Machine Learning
+## 🚀 Current Focus
+
+- Scalable Data Pipelines (ETL / ELT)
+- Distributed Systems (Spark, Hadoop)
+- Data for Quant & Trading
+- Advanced Algorithms & Optimization
+
+---
 
 📌 Interests:
 📊 Data Analysis & Visualization | 🧠 AI & Machine Learning | 🎯 Problem Solving | 📚 Continuous Learning</a>
