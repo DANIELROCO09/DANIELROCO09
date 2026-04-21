@@ -4,7 +4,7 @@
 </p>
 
 <!Descripcion sobre mi-->
-
+---
 ### 👨🏻‍💻 &nbsp;About Me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -14,6 +14,8 @@
 - 🧠 Competitive programmer with solid algorithmic thinking  
 - 🔍 Interested in **financial data, trading systems & data-driven decision making**  
 
+💡 I enjoy building systems that process, transform, and extract value from data at scale.
+---
 
 🚀 Currently learning:
 
